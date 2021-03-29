@@ -1,0 +1,7 @@
+.conversor { 
+
+      padding: 20px;
+      max-width: 300px;
+      box-shadow:0 4px 8px 0 hsla(113, 63%, 65%, 0.8);
+      background-color: whitesmoke;
+}
